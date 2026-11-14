@@ -1,9 +1,26 @@
+<style>
+  .site-footer .footer-brand img {
+    display: block;
+    width: 120px !important;
+    max-width: 100%;
+    height: auto !important;
+    max-height: 42px;
+    object-fit: contain;
+  }
+  @media (max-width: 720px) {
+    .site-footer .footer-brand img {
+      width: 112px !important;
+      max-height: 39px;
+    }
+  }
+</style>
+
 <!-- Emergency HVAC LA | Shared footer -->
 <footer class="site-footer">
   <div class="container footer-main">
     <div class="footer-brand">
       <a href="/" aria-label="Emergency HVAC LA home">
-        <img src="/images/emergency-hvac-la-logo.webp" width="140" height="47" loading="lazy" decoding="async" alt="Emergency HVAC LA">
+        <img src="/images/emergency-hvac-la-logo.webp" width="120" height="40" loading="lazy" decoding="async" alt="Emergency HVAC LA" style="display:block;width:120px;max-width:100%;height:auto;max-height:42px;object-fit:contain">
       </a>
       <p>Residential heating and air conditioning services for homeowners in Los Angeles, California.</p>
       <a class="footer-phone" href="tel:+13236060886">(323) 606-0886</a>

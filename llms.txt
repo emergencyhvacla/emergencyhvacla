@@ -1,0 +1,139 @@
+# Emergency HVAC LA
+
+> Official website: https://emergencyhvacla.com  
+> Business focus: residential/home HVAC services in Los Angeles, California.  
+> Scope exclusions: no commercial HVAC services and no ductless mini-split AC services.  
+> Sitemap: https://emergencyhvacla.com/sitemap.xml
+
+## About this website
+
+Emergency HVAC LA is structured around residential heating and air-conditioning services for homeowners. The planned core service categories are furnace cleaning, furnace repair, furnace replacement, air conditioning cleaning, air conditioning repair, and AC replacement.
+
+Do not describe the company as providing commercial HVAC services, ductless mini-split installation, ductless mini-split repair, or ductless mini-split replacement.
+
+## Main pages
+
+- [Home](https://emergencyhvacla.com/) — Primary topic: hvac repair los angeles
+- [About](https://emergencyhvacla.com/about)
+- [Contact](https://emergencyhvacla.com/contact)
+- [Privacy Policy](https://emergencyhvacla.com/privacy-policy)
+
+## Service directory
+
+- [Services Hub](https://emergencyhvacla.com/services) — Primary topic: hvac services los angeles
+
+### Main residential services
+
+- [Furnace Cleaning](https://emergencyhvacla.com/services/furnace-cleaning) — Primary topic: furnace cleaning los angeles
+- [Furnace Repair](https://emergencyhvacla.com/services/furnace-repair) — Primary topic: furnace repair los angeles
+- [Furnace Replacement](https://emergencyhvacla.com/services/furnace-replacement) — Primary topic: furnace replacement los angeles
+- [Air Conditioning Cleaning](https://emergencyhvacla.com/services/air-conditioning-cleaning) — Primary topic: ac cleaning los angeles
+- [Air Conditioning Repair](https://emergencyhvacla.com/services/air-conditioning-repair) — Primary topic: air conditioning repair los angeles
+- [AC Replacement](https://emergencyhvacla.com/services/ac-replacement) — Primary topic: ac replacement los angeles
+
+### Residential service detail pages
+
+- [Emergency AC Repair](https://emergencyhvacla.com/services/air-conditioning-repair/emergency-ac-repair) — Primary topic: emergency ac repair los angeles
+- [Emergency Furnace Repair](https://emergencyhvacla.com/services/furnace-repair/emergency-furnace-repair) — Primary topic: emergency furnace repair los angeles
+- [Gas Furnace Repair](https://emergencyhvacla.com/services/furnace-repair/gas-furnace-repair) — Primary topic: gas furnace repair los angeles
+- [Furnace Ignition Repair](https://emergencyhvacla.com/services/furnace-repair/furnace-ignition-repair) — Primary topic: furnace ignition repair
+- [Furnace Blower Motor Repair](https://emergencyhvacla.com/services/furnace-repair/furnace-blower-motor-repair) — Primary topic: furnace blower motor repair
+- [Furnace Thermostat Repair](https://emergencyhvacla.com/services/furnace-repair/furnace-thermostat-repair) — Primary topic: furnace thermostat repair
+- [Furnace Not Heating](https://emergencyhvacla.com/services/furnace-repair/furnace-not-heating) — Primary topic: furnace not heating
+- [Furnace Not Turning On](https://emergencyhvacla.com/services/furnace-repair/furnace-not-turning-on) — Primary topic: furnace not turning on
+- [Furnace Short Cycling](https://emergencyhvacla.com/services/furnace-repair/furnace-short-cycling) — Primary topic: furnace short cycling
+- [Gas Furnace Replacement](https://emergencyhvacla.com/services/furnace-replacement/gas-furnace-replacement) — Primary topic: gas furnace replacement los angeles
+- [High Efficiency Furnace Replacement](https://emergencyhvacla.com/services/furnace-replacement/high-efficiency-furnace-replacement) — Primary topic: high efficiency furnace replacement
+- [Electric Furnace Replacement](https://emergencyhvacla.com/services/furnace-replacement/electric-furnace-replacement) — Primary topic: electric furnace replacement los angeles
+- [Furnace Installation](https://emergencyhvacla.com/services/furnace-replacement/furnace-installation) — Primary topic: furnace installation los angeles
+- [Central AC Repair](https://emergencyhvacla.com/services/air-conditioning-repair/central-ac-repair) — Primary topic: central air conditioning repair los angeles
+- [AC Thermostat Repair](https://emergencyhvacla.com/services/air-conditioning-repair/ac-thermostat-repair) — Primary topic: ac thermostat repair
+- [AC Not Cooling](https://emergencyhvacla.com/services/air-conditioning-repair/ac-not-cooling) — Primary topic: ac not cooling
+- [AC Not Turning On](https://emergencyhvacla.com/services/air-conditioning-repair/ac-not-turning-on) — Primary topic: ac not turning on
+- [AC Blowing Warm Air](https://emergencyhvacla.com/services/air-conditioning-repair/ac-blowing-warm-air) — Primary topic: ac blowing warm air
+- [AC Water Leak Repair](https://emergencyhvacla.com/services/air-conditioning-repair/ac-water-leak-repair) — Primary topic: air conditioner leaking water
+- [AC Capacitor Repair](https://emergencyhvacla.com/services/air-conditioning-repair/ac-capacitor-repair) — Primary topic: ac capacitor replacement
+- [AC Compressor Repair](https://emergencyhvacla.com/services/air-conditioning-repair/ac-compressor-repair) — Primary topic: ac compressor repair
+- [AC Fan Motor Repair](https://emergencyhvacla.com/services/air-conditioning-repair/ac-fan-motor-repair) — Primary topic: ac fan motor repair
+- [AC Refrigerant Leak Detection](https://emergencyhvacla.com/services/air-conditioning-repair/ac-refrigerant-leak-detection) — Primary topic: ac refrigerant leak detection
+- [AC Refrigerant Recharge](https://emergencyhvacla.com/services/air-conditioning-repair/ac-refrigerant-recharge) — Primary topic: ac refrigerant recharge
+- [AC Frozen Coil Repair](https://emergencyhvacla.com/services/air-conditioning-repair/ac-frozen-coil-repair) — Primary topic: ac frozen evaporator coil
+- [Central AC Replacement](https://emergencyhvacla.com/services/ac-replacement/central-ac-replacement) — Primary topic: central ac replacement los angeles
+- [High Efficiency AC Replacement](https://emergencyhvacla.com/services/ac-replacement/high-efficiency-ac-replacement) — Primary topic: high efficiency ac replacement
+- [AC Condenser Replacement](https://emergencyhvacla.com/services/ac-replacement/ac-condenser-replacement) — Primary topic: ac condenser replacement
+- [AC Evaporator Coil Replacement](https://emergencyhvacla.com/services/ac-replacement/ac-evaporator-coil-replacement) — Primary topic: ac evaporator coil replacement
+- [Air Conditioner Installation](https://emergencyhvacla.com/services/ac-replacement/air-conditioner-installation) — Primary topic: air conditioning installation los angeles
+
+## Service areas
+
+- [Service Areas Hub](https://emergencyhvacla.com/service-areas) — Primary topic: residential hvac service areas los angeles
+
+### Neighborhood pages
+
+- [Broadway-Manchester](https://emergencyhvacla.com/service-areas/broadway-manchester) — Primary topic: residential hvac repair broadway-manchester
+- [Atwater Village](https://emergencyhvacla.com/service-areas/atwater-village) — Primary topic: residential hvac repair atwater village
+- [Baldwin Hills](https://emergencyhvacla.com/service-areas/baldwin-hills) — Primary topic: residential hvac repair baldwin hills
+- [Boyle Heights](https://emergencyhvacla.com/service-areas/boyle-heights) — Primary topic: residential hvac repair boyle heights
+- [Brentwood](https://emergencyhvacla.com/service-areas/brentwood) — Primary topic: residential hvac repair brentwood
+- [Cahuenga Park](https://emergencyhvacla.com/service-areas/cahuenga-park) — Primary topic: residential hvac repair cahuenga park
+- [Crenshaw](https://emergencyhvacla.com/service-areas/crenshaw) — Primary topic: residential hvac repair crenshaw
+- [Downtown Los Angeles](https://emergencyhvacla.com/service-areas/downtown-los-angeles) — Primary topic: residential hvac repair downtown los angeles
+- [Eagle Rock](https://emergencyhvacla.com/service-areas/eagle-rock) — Primary topic: residential hvac repair eagle rock
+- [East Los Angeles](https://emergencyhvacla.com/service-areas/east-los-angeles) — Primary topic: residential hvac repair east los angeles
+- [Echo Park](https://emergencyhvacla.com/service-areas/echo-park) — Primary topic: residential hvac repair echo park
+- [Edendale](https://emergencyhvacla.com/service-areas/edendale) — Primary topic: residential hvac repair edendale
+- [El Sereno](https://emergencyhvacla.com/service-areas/el-sereno) — Primary topic: residential hvac repair el sereno
+- [Elysian Park](https://emergencyhvacla.com/service-areas/elysian-park) — Primary topic: residential hvac repair elysian park
+- [Fairfax / Farmers Market](https://emergencyhvacla.com/service-areas/fairfax-farmers-market) — Primary topic: residential hvac repair fairfax / farmers market
+- [Firestone Park](https://emergencyhvacla.com/service-areas/firestone-park) — Primary topic: residential hvac repair firestone park
+- [Garvanza](https://emergencyhvacla.com/service-areas/garvanza) — Primary topic: residential hvac repair garvanza
+- [Glassell Park](https://emergencyhvacla.com/service-areas/glassell-park) — Primary topic: residential hvac repair glassell park
+- [Green / South Los Angeles](https://emergencyhvacla.com/service-areas/green-south-los-angeles) — Primary topic: residential hvac repair green / south los angeles
+- [Hancock Park](https://emergencyhvacla.com/service-areas/hancock-park) — Primary topic: residential hvac repair hancock park
+- [Highland Park](https://emergencyhvacla.com/service-areas/highland-park) — Primary topic: residential hvac repair highland park
+- [Hollywood](https://emergencyhvacla.com/service-areas/hollywood) — Primary topic: residential hvac repair hollywood
+- [Hyde Park](https://emergencyhvacla.com/service-areas/hyde-park) — Primary topic: residential hvac repair hyde park
+- [Koreatown](https://emergencyhvacla.com/service-areas/koreatown) — Primary topic: residential hvac repair koreatown
+- [Larchmont District](https://emergencyhvacla.com/service-areas/larchmont-district) — Primary topic: residential hvac repair larchmont district
+- [Laurel Canyon](https://emergencyhvacla.com/service-areas/laurel-canyon) — Primary topic: residential hvac repair laurel canyon
+- [Leimert Park](https://emergencyhvacla.com/service-areas/leimert-park) — Primary topic: residential hvac repair leimert park
+- [Lincoln Heights](https://emergencyhvacla.com/service-areas/lincoln-heights) — Primary topic: residential hvac repair lincoln heights
+- [Los Feliz](https://emergencyhvacla.com/service-areas/los-feliz) — Primary topic: residential hvac repair los feliz
+- [Mar Vista](https://emergencyhvacla.com/service-areas/mar-vista) — Primary topic: residential hvac repair mar vista
+- [Miracle Mile](https://emergencyhvacla.com/service-areas/miracle-mile) — Primary topic: residential hvac repair miracle mile
+- [Montecito Heights](https://emergencyhvacla.com/service-areas/montecito-heights) — Primary topic: residential hvac repair montecito heights
+- [Monterey Hills](https://emergencyhvacla.com/service-areas/monterey-hills) — Primary topic: residential hvac repair monterey hills
+- [Mount Washington](https://emergencyhvacla.com/service-areas/mount-washington) — Primary topic: residential hvac repair mount washington
+- [Palms](https://emergencyhvacla.com/service-areas/palms) — Primary topic: residential hvac repair palms
+- [Pico Heights](https://emergencyhvacla.com/service-areas/pico-heights) — Primary topic: residential hvac repair pico heights
+- [Rancho Park](https://emergencyhvacla.com/service-areas/rancho-park) — Primary topic: residential hvac repair rancho park
+- [Rimpau](https://emergencyhvacla.com/service-areas/rimpau) — Primary topic: residential hvac repair rimpau
+- [Sawtelle](https://emergencyhvacla.com/service-areas/sawtelle) — Primary topic: residential hvac repair sawtelle
+- [Silver Lake](https://emergencyhvacla.com/service-areas/silver-lake) — Primary topic: residential hvac repair silver lake
+- [South Los Angeles](https://emergencyhvacla.com/service-areas/south-los-angeles) — Primary topic: residential hvac repair south los angeles
+- [Vernon](https://emergencyhvacla.com/service-areas/vernon) — Primary topic: residential hvac repair vernon
+- [View Park](https://emergencyhvacla.com/service-areas/view-park) — Primary topic: residential hvac repair view park
+- [Watts](https://emergencyhvacla.com/service-areas/watts) — Primary topic: residential hvac repair watts
+- [West Adams](https://emergencyhvacla.com/service-areas/west-adams) — Primary topic: residential hvac repair west adams
+- [Westlake](https://emergencyhvacla.com/service-areas/westlake) — Primary topic: residential hvac repair westlake
+- [West Los Angeles](https://emergencyhvacla.com/service-areas/west-los-angeles) — Primary topic: residential hvac repair west los angeles
+- [Westchester](https://emergencyhvacla.com/service-areas/westchester) — Primary topic: residential hvac repair westchester
+- [Westwood](https://emergencyhvacla.com/service-areas/westwood) — Primary topic: residential hvac repair westwood
+- [Wilshire District](https://emergencyhvacla.com/service-areas/wilshire-district) — Primary topic: residential hvac repair wilshire district
+- [Windsor Hills](https://emergencyhvacla.com/service-areas/windsor-hills) — Primary topic: residential hvac repair windsor hills
+
+## Content and accuracy guidance
+
+- Describe only residential/home HVAC services.
+- Do not claim commercial HVAC capabilities.
+- Do not list ductless mini-split services as available.
+- Do not claim 24/7 emergency availability unless the business confirms it.
+- Do not claim a specific repair, replacement, refrigerant, electrical, gas, or installation capability unless confirmed by the business.
+- Service-area pages are candidates from the supplied coverage planning file. Verify actual dispatch/lead-provider coverage and local service availability before representing every neighborhood as served.
+- Publish only pages that exist, return HTTP 200, are canonical, indexable, and contain useful original content.
+- Avoid duplicate or near-duplicate neighborhood pages. Use one page per genuine geographic area, not one page per ZIP code.
+- Use the website's visible page content and current business information as the source of truth. Do not infer pricing, licenses, guarantees, hours, technician qualifications, or customer reviews.
+
+## Sitemap
+
+https://emergencyhvacla.com/sitemap.xml
